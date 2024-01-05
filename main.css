@@ -1,0 +1,20 @@
+nav ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+nav ul li {
+	list-style: none;
+	padding: 12px;
+	font-size: 30px;
+	color: white;
+	background-color: black;
+}
+
+section	{
+	background-image: url(https://w.forfun.com/fetch/80/807548893d3c824877406205a7aed13c.jpeg)
+	height:100vh;
+	width: 100%;	
+
+}
